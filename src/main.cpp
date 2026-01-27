@@ -2,6 +2,7 @@
 #include <bn_backdrop.h>
 #include <bn_color.h>
 #include <bn_sprite_ptr.h>
+#include <bn_random.h>
 
 #include "bn_sprite_items_bug.h"
 
